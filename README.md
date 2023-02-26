@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm kshitija yamgar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/-6m2vqRjKDEAAAAi/geek-girl.gif")>
 
 
@@ -27,5 +27,5 @@
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kshitijayamgar&" alt="kshitijayamgar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kshitijayamgar&show_icons=true&locale=en" alt="kshitijayamgar" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kshitijayamgar&show_icons=true&locale=en" alt="kshitijayamgar" /></p>
 
