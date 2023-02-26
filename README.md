@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm kshitija yamgar</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="500" src="https://media.tenor.com/-6m2vqRjKDEAAAAi/geek-girl.gif")>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/-6m2vqRjKDEAAAAi/geek-girl.gif")>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitijayamgar&label=Profile%20views&color=0e75b6&style=flat" alt="kshitijayamgar" /> </p>
