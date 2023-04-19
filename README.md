@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitijayamgar&label=Profile%20views&color=0e75b6&style=flat" alt="kshitijayamgar" /> </p>
 
-- 🌱 I’m currently learning **Data-Structures and Algorithms.**
+- 🌱 I’m currently learning **Data-Structures**
 
 - 💬 Ask me about **C programming language**
 
