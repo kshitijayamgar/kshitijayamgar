@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data-Structures**
 
-- 💬 Ask me about **C programming language**
+- 💬 Ask me about **C programming language, PHP ,C++,JAVA**
 
 - 📫 How to reach me **kshitijayamger@gmail.com**
 
