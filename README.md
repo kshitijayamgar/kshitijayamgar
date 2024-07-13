@@ -1,3 +1,5 @@
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg) -->
+<h3 align="center" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Kshitija+;I+hope+you're+doing+well;Enjoy+your+time+%3A)" alt="Typing SVG" /></a></h3>
 <h1 align="center">Hi 👋, I'm kshitija yamgar</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="500" src="https://media.tenor.com/-6m2vqRjKDEAAAAi/geek-girl.gif")>
